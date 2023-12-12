@@ -1,6 +1,7 @@
 {
     "values": [
         "no-bats:tick",
-        "no-creeper:tick"
+        "no-creeper:tick",
+        "no-zombie-piglin:tick"
     ]
 }

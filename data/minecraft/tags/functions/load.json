@@ -1,6 +1,7 @@
 {
     "values": [
         "no-bats:load",
-        "no-creeper:load"
+        "no-creeper:load",
+        "no-zombie-piglin:load"
     ]
 }
