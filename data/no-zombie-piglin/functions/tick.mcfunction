@@ -1,0 +1,1 @@
+execute in overworld as @e[type=zombified_piglin] at @s run kill @s
