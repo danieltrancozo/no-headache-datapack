@@ -1,1 +1,1 @@
-execute in overworld as @e[type=zombified_piglin] at @s run kill @s
+execute as @e[type=zombified_piglin] at @s if dimension overworld run kill @s
